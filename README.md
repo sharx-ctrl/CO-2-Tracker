@@ -25,9 +25,7 @@ Repository klonen (git clone)
 2. Terminal öffnen und (npm install) eintippen
 3. Server starten über (npm run dev)
 
-HINWEIS:
-- Die Konzeption der Anwendung erfolgte agil.
-Um den XSS-Sicherheitsanforderungen optimal gerecht zu werden, wurden moderne KI-Pair-Programm-Tools evaluiert, dass der Code gezielt gegen Injections abgesicert werden kann.
+Vercel-link: https://vercel.com/new/bastian3/success?auto-redirect=true&developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=co-2-tracker-qh4lza0oi-bastian3.vercel.app&projectName=co-2-tracker&s=https%3A%2F%2Fgithub.com%2Fsharx-ctrl%2FCO-2-Tracker&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1&flow-id=RzeN_vskh5G37YnCp5ahN&teamSlug=bastian3
 
 Quellen:
 HTML/JS:
