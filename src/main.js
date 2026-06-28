@@ -87,7 +87,7 @@ function verarbeiteUndRendere() {
     return passtSektor && passtSuche;
   });
 
-  // 2. Filterung für die Top 10 Emittenten
+  // 2. Spezial-Filterung für die Top 10 Emittenten
   if (istTop10) {
     aktuelleDaten.sort((a, b) => b.co2 - a.co2);
     aktuelleDaten = aktuelleDaten.slice(0, 10);
