@@ -28,6 +28,7 @@ Repository klonen (git clone)
 Vercel-link: https://vercel.com/new/bastian3/success?auto-redirect=true&developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=co-2-tracker-qh4lza0oi-bastian3.vercel.app&projectName=co-2-tracker&s=https%3A%2F%2Fgithub.com%2Fsharx-ctrl%2FCO-2-Tracker&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1&flow-id=RzeN_vskh5G37YnCp5ahN&teamSlug=bastian3
 
 Quellen:
+
 HTML/JS:
 - https://developer.mozilla.org/de/docs/Web/HTML/How_to/Author_fast-loading_HTML_pages
 - https://www.freecodecamp.org/
