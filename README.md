@@ -37,7 +37,6 @@ HTML/JS:
 
 tailwindcss (Vite):
 - https://tailwindcss.com/docs/installation/using-vite
-- 
 
 XSS:
 - https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html
